@@ -34,3 +34,5 @@
    Potom je dobré mať aj doplnky do prehliadača ktoré vás chránia napríklad WOT (Web Of Trust) 
  
    alebo Popup blocker blokuje vyskakujúce reklamy ktoré môžu byť dosť čato vírus 
+
+-------------------------------------------------------------------------------------------------------------------------
