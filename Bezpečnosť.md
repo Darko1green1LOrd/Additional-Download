@@ -11,6 +11,8 @@
   , na toto slúžia programy VPN (Virtuálna Privátna Sieť) tento program vás pripojí na virtuálnu sieť pomocou čoho vám maskuje ip , 
   Dobré free vpn programy - https://windscribe.com/
  
+ -------------------------------------------------------------------------------------------------------------------------
+
  **Vírusy** 
  
   Na internete sa nachádzajú aj rôzne vírusy ktoré vám môžu kradnúť udaje , dávat reklamy na plochu atd , ničit alebo spomalovať vaše zariadenie , zbierať o vás údaje , kradnút účty , blokovať vám prísup k určitým dátam , meniť vyhladavácí program vo vašom prehliadači
