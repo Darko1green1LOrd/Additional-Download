@@ -24,6 +24,7 @@
    Hijacking - Zmenenie vyhladávacieho programu v prehliadači , ktorý o vás zbiera dáta alebo niečo iné obvykle sa nainštaluje s niakym programom ako dotatočný o ktorom použivatel nevie
 
    MsVenom - Typ programu vygenerovaný v kali linux pomocou ktorého je možné ovládať zariadenie v ktorom je 
+   
    **Jak sa proti nim bránit ?**
    
    Slúžia na to rôzne antivirové programy ktoré vírusy detekujú a potom mažú napr https://www.avg.com/
@@ -31,7 +32,3 @@
    Potom je dobré mať aj doplnky do prehliadača ktoré vás chránia napríklad WOT (Web Of Trust) 
  
    alebo Popup blocker blokuje vyskakujúce reklamy ktoré môžu byť dosť čato vírus 
-    
-   Linky
-     https://windscribe.com/
-     https://www.avg.com/
