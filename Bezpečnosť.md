@@ -4,7 +4,7 @@
  
  , Môžu sa tam nachádzat rôzne trackery , vírusy atd.
  
- **Vpn**
+ * **Vpn**
  
   Každá stránka ktroú naštívíte má vašu ip , vaša ip je vlastne vaša lokácia , pomocou vašej ip sa dá zistiť kde bývate , ddos utočit (Odosielanie extremne vela packetov do vašeho routeru čiže vam nepojde internet po dobu ddos utoku) ,hackovat , preto je dobré skryť sa 
  
@@ -13,7 +13,7 @@
  
  -------------------------------------------------------------------------------------------------------------------------
 
- **Vírusy** 
+ * **Vírusy** 
  
   Na internete sa nachádzajú aj rôzne vírusy ktoré vám môžu kradnúť udaje , dávat reklamy na plochu atd , ničit alebo spomalovať vaše zariadenie , zbierať o vás údaje , kradnút účty , blokovať vám prísup k určitým dátam , meniť vyhladavácí program vo vašom prehliadači
  
