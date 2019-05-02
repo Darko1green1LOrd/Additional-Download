@@ -5,12 +5,12 @@
  , Môžu sa tam nachádzat rôzne trackery , vírusy atd.
  
  * **Vpn**
-  ```
+
   Každá stránka ktroú naštívíte má vašu ip , vaša ip je vlastne vaša lokácia , pomocou vašej ip sa dá zistiť kde bývate , ddos utočit (Odosielanie extremne vela packetov do vašeho routeru čiže vam nepojde internet po dobu ddos utoku) ,hackovat , preto je dobré skryť sa 
  
   , na toto slúžia programy VPN (Virtuálna Privátna Sieť) tento program vás pripojí na virtuálnu sieť pomocou čoho vám maskuje ip , 
   Dobré free vpn programy - https://windscribe.com/
-  ```
+
  -------------------------------------------------------------------------------------------------------------------------
 
  * **Vírusy** 
@@ -36,3 +36,7 @@
    alebo Popup blocker blokuje vyskakujúce reklamy ktoré môžu byť dosť čato vírus 
 
 -------------------------------------------------------------------------------------------------------------------------
+
+```
+Darko 2019
+```
