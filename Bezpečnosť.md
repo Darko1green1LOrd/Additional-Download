@@ -37,7 +37,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------
 
-### Použitý Textový Editor - https://www.sublimetext.com/
+#### Použitý Textový Editor - https://www.sublimetext.com/
 ```
 Darko 2019
 ```
