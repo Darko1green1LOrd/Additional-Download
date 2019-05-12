@@ -1,1 +1,0 @@
-To Install The Game data go to %localappdata% and put the forager from here in there
