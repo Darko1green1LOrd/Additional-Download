@@ -7,24 +7,22 @@
                     *     #    #   #    #   # #     #  #   #     #   *
                     *     #####    #    #   #  #    #   #   #####    *
 <>----------------------------------------------------------------------------------------<>
-Bloons TD Battles Sets and tactics
+Bloons TD Battles Sets and tactics 
 <>----------------------------------------------------------------------------------------<>
-Good >> 1. Helicopter                                                                  
-        2. Bannana Farm
-        3. Cobra 
-
->> 5 Helicopters > 14 000
+Version - 4
 <>----------------------------------------------------------------------------------------<>
-Best >> 1.Cobra
-           2.Mortar
-           3.Ninja
-           3.(If Water Map)Monkey Buccaneer
->> 1.Start by placing 1 cobra and upgrading it 1-0
-   2.Buy A Ninja on a place good to defend , upgrade it to 3-1
-   3.Start Making More Cobras with upgrades 1-0
-   4.After wave 6-7 Place 2 ninjas with upgrades 2-1 
-   5. when you reach 1000$ or above , sell the 2 ninjas you bedore created and upgrade the 3-1 ninja on 4-1
-   6.After wave 8 Place mortar with 2-3 Upgrades
-   7.You Should have minimaly 10 cobras with 1-0 wave 13
-   8.Upgrade all the cobras to 2-1 (Bloon Adjutment) when game reaches 17 wave
+Requires 
+Cobra - Minimally lvl 2
+Heli Pilot - Minimally lvl 3
+Some Other Tower to fill the Empty Space , im using wizard
+<>----------------------------------------------------------------------------------------<>
+Place Cobras , Target strong uprade them to 1 - 0
+When enemy will start sending bloons and if cobras cant defend it, place heli pilot , fell free to sell some cobras to get it faster
+upgrade the helicopter to 1 - 0
+If enemy doenst send anythyng , place cobras to round 7 then place helicopter , upgrade it to 3 - 0
+at round 8 use Improved Eco Boost
+then use it when you want
+when you get enough cobras upgrade them all to 2 - 0   i usally do it at round 10 or 11 when i have 6 + Cobras
+if you cant defend rush of enemy use glue and better tower boost then buy another 2 3 -0 Heli pilots 
+then upgrade all of your cobras , if you havent yet
 <>-----------------------------------------------------------------------------------------<>
