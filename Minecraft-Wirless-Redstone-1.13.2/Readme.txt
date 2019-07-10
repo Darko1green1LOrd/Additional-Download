@@ -16,6 +16,11 @@ Darko Wireless Redstone 1.13.2
 Dont Use on Older Version than 1.13 
 if you are enough skilled you can add more than 5 inputs and Oututs if want 
 
+
+Links 
+- Download This File - http://bit.ly/darkowrwf
+- Wiew This File - http://bit.ly/darkowrsf
+
 Taken from my redstone testing world 
 Link - https://github.com/Darko1green1LOrd/Minecraft-1.13-Command-Testing-Darko
 
