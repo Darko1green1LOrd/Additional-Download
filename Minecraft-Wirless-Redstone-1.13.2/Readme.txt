@@ -36,7 +36,7 @@ Link - https://github.com/Darko1green1LOrd/Minecraft-1.13-Command-Testing-Darko
                  6. Go to Datapacks of the world you selected
                  7. Paste inside folder called DarkoWR
 
-                 Video Tutorial Link - Coming Soon
+                 Video Tutorial Link - https://youtu.be/5uKPQHhm_OI
 
 
 
