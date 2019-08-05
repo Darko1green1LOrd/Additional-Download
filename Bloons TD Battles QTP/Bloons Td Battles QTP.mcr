@@ -82,7 +82,7 @@ BREAKPOINT
 COMMENT : Space
 LABEL : LeftUpgrade1TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 100 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D1 : KeyPress
 Keyboard : ShiftLeft : KeyUp
@@ -100,7 +100,7 @@ ENDREPEAT
 BREAKPOINT
 LABEL : LeftUpgrade2TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 20 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D2 : KeyPress
 Keyboard : ShiftLeft : KeyUp
@@ -135,7 +135,7 @@ ENDREPEAT
 BREAKPOINT
 LABEL : LeftUpgrade4TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 50 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D4 : KeyPress
 Keyboard : ShiftLeft : KeyUp
@@ -153,7 +153,7 @@ ENDREPEAT
 BREAKPOINT
 LABEL : RightUpgrade1TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 1 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 500 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D1 : KeyPress
 Keyboard : ShiftLeft : KeyUp
@@ -171,7 +171,7 @@ ENDREPEAT
 BREAKPOINT
 LABEL : RightUpgrade2TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 200 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 50 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D2 : KeyPress
 Keyboard : ShiftLeft : KeyUp
@@ -187,15 +187,14 @@ Keyboard : PageUP : KeyPress
 Keyboard : PageUP : KeyPress
 ENDREPEAT
 BREAKPOINT
-LABEL : RightUpgrade3TRUNEUK
+LABEL : RightUpgrade3TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 50 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D3 : KeyPress
 Keyboard : ShiftLeft : KeyUp
 Mouse : 0 : 0 : Click : 0 : 1 : 0
 DELAY : 300
-REPEAT : 5 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : PageDOWN : KeyPress
 Keyboard : PageDOWN : KeyPress
 Keyboard : PageDOWN : KeyPress
@@ -209,7 +208,7 @@ ENDREPEAT
 BREAKPOINT
 LABEL : RightUpgrade4TowerRUNEUK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 50 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : ShiftLeft : KeyDown
 Keyboard : D4 : KeyPress
 Keyboard : ShiftLeft : KeyUp
@@ -359,7 +358,7 @@ ENDREPEAT
 BREAKPOINT
 LABEL : RightUpgrade1TowerRUNENK
 MESSAGE BOX : After Clicking OK a Thing that sets how many it will spam towers , you can set the number and after clicking OK on that it will start spamming towers where your mouse is , dont move with your mouse for perfect tower stacking
-REPEAT : 10 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
+REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : D1 : KeyPress
 Mouse : 0 : 0 : Click : 0 : 1 : 0
 DELAY : 300
@@ -395,7 +394,6 @@ REPEAT : 0 : 1 : 0 : How Many Times Repeat ?  : 0 : 0
 Keyboard : D3 : KeyPress
 Mouse : 0 : 0 : Click : 0 : 1 : 0
 DELAY : 300
-REPEAT : 5 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : PageDOWN : KeyPress
 Keyboard : PageDOWN : KeyPress
 Keyboard : PageDOWN : KeyPress
